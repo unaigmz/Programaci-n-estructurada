@@ -1,1 +1,3 @@
-# Programaci-n-estructurada
+# Programacion-estructurada
+
+Proyedcto de Unai y sus compas
